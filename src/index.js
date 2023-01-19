@@ -14,7 +14,7 @@ const fun = () => {
     let length = data.length;
     console.log(data);
     const ul = document.querySelector('.country-list');
-    if (length > 1 && length < 10) {
+    if (length > 1 && length < 11) {
       ul.innerHTML = '';
       let items = data
         .map(element => {

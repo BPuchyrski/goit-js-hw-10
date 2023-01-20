@@ -24,3 +24,8 @@ li {
   font-size: 24px;
   margin-bottom: 15px;
 }
+
+.wrapper {
+  width: 50%;
+  margin: 0 auto;
+}
